@@ -1,18 +1,18 @@
-﻿code,nombre,Número,Porcentaje total
-ES.AN,Andalucía,3548,0.25
-ES.AR,Aragón,275,0.02
-ES.AS,"Asturias, Principado de",138,0.01
-ES.PM,"Balears, Illes",590,0.04
-ES.CN,Canarias,590,0.04
-ES.CB,Cantabria,68,0.01
-ES.CL,Castilla y León,353,0.02
-ES.CM,Castilla-La Mancha,410,0.03
-ES.CT,Cataluña,3015,0.21
-ES.VC,Comunitat Valenciana,1488,0.1
-ES.EX,Extremadura,201,0.01
-ES.GA,Galicia,378,0.03
-ES.MD,"Madrid, Comunidad de",2230,0.16
-ES.MU,"Murcia, Región de",396,0.03
-ES.NA,"Navarra, Comunidad Foral de",106,0.01
-ES.PV,País Vasco,464,0.03
-ES.LO,"Rioja, La",76,0.01
+﻿code;nombre;Número;Porcentaje total
+ES.AN;Andalucía;3548;0.25
+ES.AR;Aragón;275;0.02
+ES.AS;"Asturias; Principado de";138;0.01
+ES.PM;"Balears, Illes";590;0.04
+ES.CN;Canarias;590;0.04
+ES.CB;Cantabria;68;0.01
+ES.CL;Castilla y León;353;0.02
+ES.CM;Castilla-La Mancha;410;0.03
+ES.CT;Cataluña;3015;0.21
+ES.VC;Comunitat Valenciana;1488;0.1
+ES.EX;Extremadura;201;0.01
+ES.GA;Galicia;378;0.03
+ES.MD;"Madrid, Comunidad de";2230,0.16
+ES.MU;"Murcia, Región de";396;0.03
+ES.NA;"Navarra, Comunidad Foral de";106;0.01
+ES.PV;País Vasco;464;0.03
+ES.LO;"Rioja, La";76;0.01
